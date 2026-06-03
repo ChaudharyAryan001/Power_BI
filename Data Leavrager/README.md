@@ -62,3 +62,7 @@ The project focuses on preparing raw data for analysis and building interactive 
 2. Review applied transformations in **Power Query Editor**.  
 3. Explore dashboards for insights.  
 4. Modify filters/slicers to customize analysis.  
+
+
+##Images
+<img width="1918" height="1117" alt="sales" src="https://github.com/user-attachments/assets/61efe5f1-7925-41c2-9552-b0a81167c0b3" />

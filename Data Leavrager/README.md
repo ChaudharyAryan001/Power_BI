@@ -68,7 +68,6 @@ The project focuses on preparing raw data for analysis and building interactive 
 - Dataset files
 - Screenshots
 - Project Report
-- Data Cleaning Steps
   
 
 ##Sales.Png
@@ -87,13 +86,4 @@ The project focuses on preparing raw data for analysis and building interactive 
 <img width="1168" height="831" alt="Relationship" src="https://github.com/user-attachments/assets/5274c0f2-b3fc-477a-9447-156292c2885f" />
 
 
-##Sales Data Cleaning Steps <br>
-<img width="364" height="1024" alt="Sales_Data_Applied Steps" src="https://github.com/user-attachments/assets/4b24a236-3518-41a3-b53e-8471eba86fe3" />
 
-
-##Employee Data Cleaning Steps <br>
-<img width="327" height="545" alt="Employee_Data - Applied_Steps" src="https://github.com/user-attachments/assets/a73be599-d0d4-4cbe-b28e-d03604a11f28" />
-
-
-##Sales_by_Region Data Cleaning Steps <br>
-<img width="332" height="405" alt="Sales_By_Region - Applied Steps" src="https://github.com/user-attachments/assets/e001edf8-00b2-4457-9a98-681261d98608" />

@@ -85,7 +85,7 @@ It integrates multiple fact and dimension tables to build a star schema model an
 - Dataset files
 - Screenshots
 - Project Report
-- Data Cleaning Steps
+
 
   ##Customer.png
   <img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/93479d34-326c-47a3-b6ba-96f7d4404f91" />

@@ -78,3 +78,56 @@ It integrates multiple fact and dimension tables to build a star schema model an
 2. Review applied transformations in **Power Query Editor**.  
 3. Explore dashboards for insights across sales, customers, products, and returns.  
 4. Modify filters/slicers to customize analysis.  
+
+
+## Files Included
+- Power BI (.pbix)
+- Dataset files
+- Screenshots
+- Project Report
+- Data Cleaning Steps
+
+  ##Customer.png
+  <img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/93479d34-326c-47a3-b6ba-96f7d4404f91" />
+
+
+  ##Date.png
+  <img width="1910" height="952" alt="image" src="https://github.com/user-attachments/assets/40ff20b3-f368-4753-a002-13d90ec019ac" />
+
+
+  ##Product.png
+  <img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/bcca410e-50de-4dc8-a3ce-ed8c5ee2a0f6" />
+
+
+  ##Region.png
+  <img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/63c45d6d-41ee-4e8a-8b20-418eccc3bb80" />
+
+
+  ##Return.png
+  <img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/cefac76d-5b0c-4e9b-a9c4-f681ab6ab67f" />
+
+
+  ##Sales.png
+  <img width="1912" height="935" alt="image" src="https://github.com/user-attachments/assets/f74fd994-e915-42d8-8940-a175a3503182" />
+
+
+  ##Dashboard-1
+  <img width="1656" height="875" alt="image" src="https://github.com/user-attachments/assets/47a02c68-9dfe-42e2-9b50-645c7900a311" />
+
+
+  ##Dashboard-2
+  <img width="1600" height="867" alt="image" src="https://github.com/user-attachments/assets/8038b00d-4e25-4e85-aef4-770a7142db1b" />
+
+
+  ##Dashboard-3
+  <img width="1601" height="865" alt="image" src="https://github.com/user-attachments/assets/53f9f5ae-c916-4515-82aa-d804314ec00b" />
+
+  ##Relationship
+  <img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/b74246d5-5b81-4b97-979a-6be7fe3e182a" />
+
+
+  
+
+
+
+  

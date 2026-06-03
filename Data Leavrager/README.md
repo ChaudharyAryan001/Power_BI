@@ -61,8 +61,21 @@ The project focuses on preparing raw data for analysis and building interactive 
 1. Open the `.pbix` file in Power BI Desktop.  
 2. Review applied transformations in **Power Query Editor**.  
 3. Explore dashboards for insights.  
-4. Modify filters/slicers to customize analysis.  
+4. Modify filters/slicers to customize analysis.
+
+## Files Included
+- Power BI (.pbix)
+- Dataset files
+- Screenshots
+- Project Report
+  
+
+##Sales.Png
+<img width="1918" height="1117" alt="sales" src="https://github.com/user-attachments/assets/9b2411e5-1d63-4405-903b-215e0a49b0f7" />
+
+##Employee.Png
+<img width="1917" height="1150" alt="image" src="https://github.com/user-attachments/assets/afb175d1-e826-49ec-9137-a1cad22867c3" />
+
+##Sales_by_Region.Png
 
 
-##Images
-<img width="1918" height="1117" alt="sales" src="https://github.com/user-attachments/assets/61efe5f1-7925-41c2-9552-b0a81167c0b3" />

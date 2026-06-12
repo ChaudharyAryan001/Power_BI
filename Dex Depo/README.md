@@ -90,4 +90,55 @@ Total Profit = [Total Sales] - [Total Cost]
 Total Sales = SUM(Sales[Total Sale Amount])
 
 
-##Files Included
+```
+
+## Files Included
+- Power BI (.pbix)
+- Dataset files
+- Screenshots
+- Project Report
+
+## Deshboard.png
+
+<img width="1378" height="771" alt="Deshboard" src="https://github.com/user-attachments/assets/abd6e184-b0e2-430a-8a77-f1b411e16b7b" /><br><br>
+
+
+## Relationship.png
+
+<img width="1465" height="795" alt="Relationship" src="https://github.com/user-attachments/assets/86242e8a-b74c-4088-b6e5-fe8c25c1c487" /><br><br>
+
+
+## Sales.png
+
+<img width="1918" height="955" alt="Sales" src="https://github.com/user-attachments/assets/c017527b-0349-4c23-97d7-fea81f606df3" /><br><br>
+
+
+## Return.png
+
+<img width="1916" height="952" alt="Return" src="https://github.com/user-attachments/assets/1185f13f-1a35-4ddd-880f-dba30408c7b0" /><br><br>
+
+
+## Customer.png
+
+<img width="1917" height="957" alt="Customer" src="https://github.com/user-attachments/assets/c221697e-298d-4aeb-baf4-d4beaa23aadb" /> <br><br>
+
+
+## Product.png
+
+<img width="1917" height="971" alt="Product" src="https://github.com/user-attachments/assets/665dcbdd-2c49-4153-bb78-e91888d08111" /><br><br>
+
+
+## Region.png
+
+<img width="1918" height="972" alt="Region" src="https://github.com/user-attachments/assets/d807dabc-cea7-434c-b314-c6803fb34863" /><br><br>
+
+
+## Date.png
+
+<img width="1918" height="947" alt="Date" src="https://github.com/user-attachments/assets/6b4086ac-1c8d-4f26-a36d-49a5ea202211" />
+
+
+
+
+
+

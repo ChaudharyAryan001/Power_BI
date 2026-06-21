@@ -1,291 +1,147 @@
-# 📊 Sales Performance & Time Intelligence Dashboard
+# 📊 Sales & Customer Analytics Dashboard
 
 ## 🎯 Project Overview
+The Sales & Customer Analytics Dashboard is an end-to-end Power BI project designed to transform raw transactional data into actionable business insights.
 
-The Sales Performance & Time Intelligence Dashboard is a Power BI project designed to analyze sales transactions, customer segments, product performance, and regional revenue trends.
-
-The dashboard enables business users to monitor revenue growth, track sales performance over time, evaluate customer segments, and identify sales opportunities through interactive visualizations and advanced DAX calculations.
-
-### Key Objectives
-
-* Monitor overall sales performance
-* Analyze product-level revenue contribution
-* Evaluate customer segment performance
-* Compare current and previous period sales
-* Track Monthly-to-Date (MTD) and Year-to-Date (YTD) performance
-* Understand regional sales distribution
-* Measure return rates and transaction efficiency
+This project demonstrates the complete Business Intelligence workflow, including:
+- Data Cleaning & Transformation using Power Query
+- Star Schema Data Modeling
+- Relationship Management
+- DAX Measures & Calculated Columns
+- Time Intelligence Analysis
+- Customer Segmentation
+- Product Performance Analysis
+- Returns & Quality Monitoring
+- Interactive Dashboard Design
 
 ---
 
 ## 🛠 Tools & Technologies Used
-
-* Power BI Desktop
-* Power Query
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Time Intelligence Functions
-* Interactive Data Visualization
-
----
-
-## 📂 Dataset Overview
-
-The project contains business data related to:
-
-### Sales Data
-
-* Revenue
-* Profit
-* Quantity Sold
-* Sales Categories
-
-### Customer Data
-
-* Customer ID
-* Customer Segments
-
-### Product Data
-
-* Product Name
-* Product Category
-
-### Regional Data
-
-* Country
-* State
-* City
-
-### Date Data
-
-* Month
-* Time Intelligence Analysis
+- Power BI Desktop  
+- Power Query  
+- DAX (Data Analysis Expressions)  
+- Star Schema Modeling  
+- Data Visualization  
+- Time Intelligence Functions  
 
 ---
 
-## 📈 DAX Measures Implemented
+## 📂 Data Model Architecture
+A Star Schema model was implemented to improve performance and simplify analytical reporting.
 
-### Sales Metrics
+### Fact Tables
+- **Sales_Fact**
+- **Returns_Fact**
 
-* Total Sales
-* Total Revenue
-* Total Quantity
-* Average Sale per Transaction
-* Profit Analysis
-
-### Time Intelligence Measures
-
-* Previous Month Revenue
-* Sales MTD (Month-To-Date)
-* Sales YTD (Year-To-Date)
-
-### Performance Measures
-
-* Return Rate
-* Quantity Analysis
-* Revenue Trend Analysis
-
-### DAX Concepts Used
-
-* CALCULATE()
-* FILTER()
-* SUM()
-* AVERAGE()
-* TOTALMTD()
-* TOTALYTD()
-* Time Intelligence Functions
+### Dimension Tables
+- **Customer_Dim**
+- **Product_Dim**
+- **Region_Dim**
+- **Date_Dim**
 
 ---
 
-# 📄 Dashboard Overview
+## ⭐ Star Schema Design
+The data model follows a centralized fact table structure connected to multiple dimension tables.
 
-The report contains an interactive business performance dashboard with multiple analytical sections.
+### Model Benefits
+- Faster query performance  
+- Better scalability  
+- Simplified relationships  
+- Efficient DAX calculations  
 
----
-
-# 1️⃣ Executive Sales Overview
-
-Provides a high-level snapshot of business performance.
-
-### KPIs
-
-* Revenue
-* Profit
-* Quantity Sold
-* Return Rate
-* Average Sale per Transaction
-
-### Visuals
-
-* KPI Cards
-* Interactive Filters
-* Revenue Monitoring
-
-### Business Value
-
-Allows management to quickly evaluate current sales performance and operational efficiency.
+<img width="1145" height="827" alt="Relationship" src="https://github.com/user-attachments/assets/7484e3f5-0421-4311-bc9b-00e3dce91c2e" /><br><br>
 
 ---
 
-# 2️⃣ Product Performance Analysis
+## 📋 Project Tables & Transformations
 
-Analyzes product-level revenue contribution.
+### Customer Table
+<img width="1917" height="946" alt="Customer" src="https://github.com/user-attachments/assets/5c3e5ca9-1dab-4a3d-b605-824625f8d0c1" /><br><br>
 
-### Visuals
 
-* Clustered Column Chart
-* Revenue by Product
-* Revenue by Category
+### Product Table
+<img width="1917" height="942" alt="Product" src="https://github.com/user-attachments/assets/7456e67c-8697-4d91-820d-a204b96e7e6f" /><br><br>
 
-### Business Value
 
-Identifies top-performing products and categories that drive business growth.
+### Region Table
+<img width="1912" height="946" alt="Region" src="https://github.com/user-attachments/assets/b15c822d-bace-443a-8710-9ac3c2a310d9" /><br><br>
 
----
 
-# 3️⃣ Customer Segment Analysis
+### Date Table
+<img width="1917" height="942" alt="Date" src="https://github.com/user-attachments/assets/ad328234-963c-4193-971a-dbc66bbb40ae" /><br><br>
 
-Evaluates sales generated from different customer segments.
 
-### Visuals
+### Sales Table
+<img width="1917" height="945" alt="Sales" src="https://github.com/user-attachments/assets/609679d8-52b4-41cf-8f83-8806f0290a2a" /><br><br>
 
-* Clustered Bar Chart
-* Segment-wise Revenue Distribution
 
-### Business Value
+### Returns Table
+<img width="1912" height="947" alt="Return" src="https://github.com/user-attachments/assets/97152cfe-9ed7-4d59-87f8-4f2c64b9e490" /><br><br>
 
-Helps identify high-value customer groups and supports customer targeting strategies.
 
 ---
 
-# 4️⃣ Regional Performance Analysis
+## 📈 DAX Calculations Implemented
 
-Analyzes geographical sales performance.
+### Measures
+- Total Sales  
+- Revenue  
+- Total Orders  
+- Total Customers  
+- Total Products  
+- Total Returns  
+- Total Units Sold  
+- Average Order Value  
+- Return Rate %  
+- Sales for Premium Customers  
+- Large Orders  
+- Average Sales Amount  
 
-### Visuals
+### Time Intelligence Functions
+- TOTALYTD()  
+- TOTALMTD()  
+- SAMEPERIODLASTYEAR()  
 
-* Donut Chart
-* Country → State → City Analysis
-* Regional Sales Distribution
+### Calculated Columns
+- Full Name  
+- Year Month  
+- Sales Category  
+- Customer Segment  
+- Product Category  
 
-### Business Value
+### Screenshot
+<img width="1226" height="864" alt="Fields" src="https://github.com/user-attachments/assets/3c3f275f-9770-4bd2-b2db-2e1ef5527aab" /><br><br>
 
-Provides insights into high-performing markets and regional growth opportunities.
-
----
-
-# 5️⃣ Time Intelligence Analysis
-
-Tracks performance across different time periods.
-
-### Visuals
-
-* Matrix Report
-* Monthly Comparison
-* Previous Month Revenue
-* MTD Analysis
-* YTD Analysis
-
-### Business Value
-
-Supports trend analysis and helps stakeholders compare current performance against historical periods.
-
----
-
-# 6️⃣ Product Revenue Trend Analysis
-
-Analyzes revenue and quantity relationships.
-
-### Visuals
-
-* Line Chart
-* Revenue vs Quantity Trend
-
-### Business Value
-
-Helps identify products generating maximum revenue and sales volume.
 
 ---
 
-# 7️⃣ Category Funnel Analysis
+# 📄 Dashboard Pages
 
-Provides category-wise contribution analysis.
+## 1️⃣ Executive Overview Dashboard
+Provides a high-level summary of business performance.  
+<img width="1387" height="807" alt="Deshboard" src="https://github.com/user-attachments/assets/cb13c128-09b5-438e-aaf5-955737a0904d" /><br><br>
 
-### Visuals
-
-* Funnel Chart
-
-### Business Value
-
-Highlights category performance and assists in sales optimization.
-
----
-
-## 🎛 Interactive Features
-
-### Slicers
-
-* Month Name
-* Sales Category
-* Customer Segment
-* Country
-* State
-* City
-
-### Benefits
-
-* Dynamic filtering
-* Drill-down analysis
-* User-driven insights
-* Improved report exploration
-
----
 
 ## 🔍 Key Insights Generated
-
-* Monitored overall revenue and profitability.
-* Compared current sales against previous periods.
-* Analyzed Month-to-Date and Year-to-Date performance.
-* Identified top-performing products and categories.
-* Evaluated customer segment contribution.
-* Measured regional sales performance.
-* Tracked quantity and revenue trends.
-* Monitored return-related performance indicators.
+- Generated total revenue of **844K+** across all transactions.  
+- Maintained a low overall return rate of **5%**.  
+- Identified top revenue-generating customers.  
+- Evaluated category-wise product performance.  
+- Analyzed regional sales contribution.  
+- Tracked return reasons and quality-related issues.  
+- Applied Time Intelligence functions for performance tracking.  
 
 ---
 
 ## 🚀 Skills Demonstrated
-
-### Power BI
-
-* Interactive Dashboard Development
-* Data Visualization
-* Report Design
-
-### DAX
-
-* KPI Calculations
-* Time Intelligence
-* Aggregations
-* Performance Metrics
-
-### Business Intelligence
-
-* Sales Analytics
-* Customer Analytics
-* Product Analytics
-* Regional Analytics
-* Performance Monitoring
-
-### Data Analysis
-
-* Trend Analysis
-* Revenue Analysis
-* Comparative Analysis
-* Segmentation Analysis
+- **Power Query** → Data Cleaning, Transformation, Preparation  
+- **Data Modeling** → Star Schema, Relationship Management  
+- **DAX** → Measures, Calculated Columns, Time Intelligence  
+- **Visualization** → KPI Cards, Donut Charts, Treemaps, Waterfall Charts, Decomposition Trees  
+- **Business Intelligence** → Customer Analytics, Product Analytics, Sales Monitoring, Return Analysis  
 
 ---
 
 ## 📌 Project Outcome
-
-This dashboard transforms transactional sales data into actionable business insights through interactive reporting, KPI tracking, customer segmentation, regional analysis, and advanced Time Intelligence calculations. The solution enables data-driven decision-making and provides stakeholders with a comprehensive view of business performance.
+This dashboard transforms raw transactional data into meaningful business intelligence, enabling data-driven decision making through interactive reporting, advanced DAX calculations, and professional dashboard design.

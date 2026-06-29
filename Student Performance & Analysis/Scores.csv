@@ -1,0 +1,301 @@
+StudentID,Subject,ExamType,Score,MaxScore,Term
+S040,English,Final,66,100,Term 1
+S295,Science,Unit Test,26,50,Term 1
+S127,Math,Final,37,100,Term 2
+S090,Math,Unit Test,47,50,Term 1
+S234,Science,Final,38,100,Term 1
+S034,History,Mid-Term,43,100,Term 1
+S286,History,Final,78,100,Term 2
+S135,Computer,Mid-Term,59,100,Term 2
+S221,History,Unit Test,21,50,Term 2
+S255,Science,Mid-Term,56,100,Term 2
+S009,Science,Unit Test,27,50,Term 1
+S144,Computer,Final,99,100,Term 1
+S078,Science,Mid-Term,54,100,Term 1
+S180,Math,Unit Test,49,50,Term 2
+S107,Computer,Final,96,100,Term 1
+S239,Math,Final,87,100,Term 1
+S169,English,Mid-Term,77,100,Term 2
+S294,Science,Unit Test,45,50,Term 1
+S049,English,Mid-Term,60,100,Term 2
+S173,Computer,Final,74,100,Term 2
+S123,History,Mid-Term,62,100,Term 2
+S137,English,Final,54,100,Term 2
+S182,Science,Final,67,100,Term 1
+S103,History,Unit Test,31,50,Term 1
+S049,English,Mid-Term,70,100,Term 2
+S193,Math,Final,37,100,Term 2
+S276,Science,Unit Test,49,50,Term 1
+S032,Math,Mid-Term,80,100,Term 1
+S284,Computer,Mid-Term,78,100,Term 1
+S199,History,Mid-Term,99,100,Term 2
+S279,Science,Unit Test,17,50,Term 1
+S142,English,Final,36,100,Term 2
+S100,Math,Unit Test,29,50,Term 1
+S158,Science,Unit Test,27,50,Term 2
+S151,Science,Mid-Term,93,100,Term 1
+S028,English,Unit Test,39,50,Term 1
+S011,History,Unit Test,39,50,Term 1
+S091,History,Unit Test,26,50,Term 1
+S078,Science,Unit Test,21,50,Term 2
+S213,Math,Unit Test,19,50,Term 1
+S246,English,Unit Test,48,50,Term 1
+S172,Computer,Final,86,100,Term 1
+S126,Computer,Final,59,100,Term 1
+S039,Computer,Unit Test,35,50,Term 1
+S093,English,Unit Test,50,50,Term 2
+S299,Science,Mid-Term,61,100,Term 2
+S078,Science,Unit Test,28,50,Term 2
+S159,History,Final,43,100,Term 1
+S124,Math,Final,55,100,Term 2
+S215,Math,Mid-Term,37,100,Term 1
+S146,Computer,Unit Test,20,50,Term 2
+S256,Math,Unit Test,32,50,Term 1
+S130,Math,Unit Test,31,50,Term 2
+S065,English,Final,69,100,Term 1
+S252,Math,Mid-Term,58,100,Term 2
+S268,English,Unit Test,34,50,Term 1
+S094,Computer,Mid-Term,65,100,Term 2
+S012,History,Mid-Term,70,100,Term 2
+S265,English,Final,71,100,Term 2
+S119,History,Unit Test,23,50,Term 1
+S075,Computer,Final,97,100,Term 2
+S036,English,Final,77,100,Term 2
+S199,Computer,Unit Test,50,50,Term 2
+S182,History,Unit Test,18,50,Term 2
+S072,Math,Mid-Term,38,100,Term 1
+S211,Computer,Final,90,100,Term 2
+S100,History,Unit Test,23,50,Term 2
+S051,Science,Unit Test,18,50,Term 1
+S274,Computer,Final,64,100,Term 1
+S112,Computer,Final,72,100,Term 2
+S091,English,Final,66,100,Term 1
+S053,Math,Mid-Term,90,100,Term 2
+S256,History,Mid-Term,40,100,Term 2
+S119,Computer,Unit Test,41,50,Term 2
+S029,Computer,Unit Test,40,50,Term 1
+S039,Math,Unit Test,32,50,Term 1
+S237,Math,Final,85,100,Term 1
+S190,English,Mid-Term,45,100,Term 1
+S233,History,Final,41,100,Term 1
+S259,English,Final,95,100,Term 2
+S099,Math,Mid-Term,41,100,Term 2
+S060,Computer,Final,98,100,Term 2
+S163,History,Mid-Term,62,100,Term 2
+S072,Computer,Final,85,100,Term 2
+S176,Math,Unit Test,29,50,Term 1
+S049,Science,Final,75,100,Term 1
+S188,English,Mid-Term,38,100,Term 2
+S050,Science,Mid-Term,52,100,Term 1
+S206,English,Final,93,100,Term 2
+S194,Computer,Mid-Term,84,100,Term 1
+S002,Science,Unit Test,19,50,Term 1
+S285,Math,Final,61,100,Term 1
+S251,Computer,Final,62,100,Term 2
+S051,English,Unit Test,40,50,Term 1
+S251,English,Final,74,100,Term 1
+S159,Math,Final,40,100,Term 2
+S182,Computer,Unit Test,17,50,Term 2
+S184,Math,Final,82,100,Term 1
+S256,English,Unit Test,17,50,Term 1
+S258,Computer,Mid-Term,43,100,Term 2
+S018,Science,Unit Test,50,50,Term 1
+S215,Science,Unit Test,23,50,Term 1
+S229,Science,Final,36,100,Term 1
+S080,History,Mid-Term,57,100,Term 2
+S282,History,Mid-Term,52,100,Term 2
+S174,Science,Final,69,100,Term 2
+S201,English,Mid-Term,35,100,Term 2
+S293,Science,Unit Test,39,50,Term 2
+S156,English,Unit Test,47,50,Term 2
+S277,Math,Final,67,100,Term 2
+S294,History,Final,56,100,Term 2
+S200,Computer,Final,53,100,Term 1
+S124,History,Final,62,100,Term 1
+S038,Science,Unit Test,18,50,Term 2
+S033,Math,Mid-Term,56,100,Term 1
+S103,Computer,Mid-Term,53,100,Term 2
+S103,Science,Unit Test,33,50,Term 2
+S070,Math,Unit Test,28,50,Term 1
+S109,Science,Mid-Term,72,100,Term 2
+S031,History,Final,93,100,Term 2
+S174,Math,Unit Test,44,50,Term 1
+S120,Computer,Mid-Term,53,100,Term 1
+S027,History,Final,99,100,Term 1
+S269,Science,Final,43,100,Term 2
+S127,Math,Mid-Term,35,100,Term 2
+S182,Math,Unit Test,25,50,Term 1
+S116,English,Mid-Term,67,100,Term 2
+S112,Math,Unit Test,40,50,Term 1
+S158,Science,Unit Test,18,50,Term 1
+S029,Computer,Final,58,100,Term 1
+S279,Computer,Unit Test,41,50,Term 2
+S198,History,Mid-Term,59,100,Term 2
+S008,Computer,Final,38,100,Term 1
+S139,History,Final,52,100,Term 2
+S276,History,Mid-Term,57,100,Term 2
+S064,Computer,Final,79,100,Term 1
+S277,English,Final,37,100,Term 1
+S100,Science,Final,76,100,Term 1
+S213,English,Final,42,100,Term 2
+S075,History,Mid-Term,92,100,Term 2
+S289,Computer,Unit Test,49,50,Term 1
+S180,Math,Unit Test,50,50,Term 2
+S101,Math,Final,38,100,Term 1
+S055,Science,Mid-Term,41,100,Term 2
+S100,Computer,Final,41,100,Term 2
+S148,Computer,Unit Test,35,50,Term 2
+S269,English,Unit Test,47,50,Term 1
+S058,Math,Final,97,100,Term 1
+S065,Computer,Unit Test,18,50,Term 1
+S109,History,Mid-Term,45,100,Term 2
+S145,Science,Mid-Term,45,100,Term 1
+S082,Science,Mid-Term,86,100,Term 2
+S167,Science,Final,92,100,Term 2
+S171,Computer,Unit Test,28,50,Term 1
+S196,Computer,Final,97,100,Term 2
+S138,Computer,Unit Test,21,50,Term 2
+S147,English,Mid-Term,47,100,Term 2
+S019,History,Unit Test,47,50,Term 1
+S072,Computer,Final,73,100,Term 1
+S207,Math,Final,39,100,Term 2
+S215,Computer,Mid-Term,42,100,Term 1
+S232,Computer,Unit Test,26,50,Term 1
+S115,English,Final,82,100,Term 1
+S180,History,Unit Test,47,50,Term 1
+S137,History,Mid-Term,57,100,Term 1
+S170,Math,Unit Test,19,50,Term 2
+S188,History,Mid-Term,100,100,Term 2
+S147,English,Final,98,100,Term 1
+S110,Computer,Mid-Term,36,100,Term 2
+S295,Math,Mid-Term,82,100,Term 2
+S067,History,Final,41,100,Term 2
+S002,Science,Mid-Term,49,100,Term 1
+S026,Math,Unit Test,26,50,Term 2
+S078,English,Unit Test,49,50,Term 1
+S287,English,Unit Test,28,50,Term 1
+S185,Math,Mid-Term,51,100,Term 2
+S179,English,Mid-Term,88,100,Term 1
+S202,English,Final,48,100,Term 1
+S086,Science,Mid-Term,66,100,Term 2
+S107,History,Mid-Term,38,100,Term 2
+S289,Math,Final,36,100,Term 1
+S048,Math,Final,95,100,Term 1
+S219,Math,Mid-Term,38,100,Term 1
+S002,Computer,Unit Test,35,50,Term 1
+S001,Science,Final,35,100,Term 2
+S048,English,Mid-Term,47,100,Term 2
+S285,History,Unit Test,33,50,Term 1
+S138,History,Final,53,100,Term 1
+S022,English,Mid-Term,35,100,Term 2
+S108,English,Mid-Term,91,100,Term 1
+S244,English,Unit Test,20,50,Term 1
+S164,History,Final,95,100,Term 2
+S040,Science,Final,100,100,Term 1
+S208,Math,Final,42,100,Term 2
+S242,Science,Unit Test,23,50,Term 2
+S073,Computer,Mid-Term,99,100,Term 1
+S130,English,Final,82,100,Term 2
+S137,Computer,Unit Test,33,50,Term 2
+S079,History,Unit Test,18,50,Term 1
+S070,Math,Unit Test,27,50,Term 2
+S287,History,Mid-Term,43,100,Term 2
+S125,Math,Unit Test,45,50,Term 1
+S077,Math,Final,71,100,Term 2
+S047,Science,Unit Test,39,50,Term 2
+S067,English,Unit Test,30,50,Term 2
+S012,Math,Unit Test,37,50,Term 1
+S020,English,Mid-Term,67,100,Term 2
+S047,History,Unit Test,50,50,Term 2
+S158,Computer,Mid-Term,48,100,Term 2
+S121,Math,Final,44,100,Term 1
+S195,Math,Unit Test,45,50,Term 1
+S015,English,Mid-Term,66,100,Term 2
+S026,English,Unit Test,26,50,Term 1
+S006,Science,Final,41,100,Term 1
+S254,Math,Mid-Term,85,100,Term 1
+S040,Computer,Unit Test,48,50,Term 2
+S084,Math,Mid-Term,99,100,Term 2
+S181,English,Final,59,100,Term 2
+S122,History,Final,87,100,Term 1
+S220,English,Mid-Term,82,100,Term 1
+S091,Science,Final,54,100,Term 1
+S064,Computer,Mid-Term,80,100,Term 2
+S269,Computer,Unit Test,43,50,Term 1
+S143,History,Mid-Term,58,100,Term 2
+S248,Science,Final,58,100,Term 2
+S061,History,Mid-Term,54,100,Term 1
+S248,English,Final,87,100,Term 2
+S126,English,Final,79,100,Term 1
+S138,Science,Final,74,100,Term 2
+S077,Science,Mid-Term,49,100,Term 2
+S246,Math,Mid-Term,90,100,Term 1
+S193,Science,Mid-Term,59,100,Term 1
+S008,History,Final,53,100,Term 1
+S282,English,Mid-Term,88,100,Term 1
+S132,Computer,Unit Test,41,50,Term 1
+S148,Computer,Final,58,100,Term 1
+S112,Computer,Unit Test,19,50,Term 1
+S296,History,Unit Test,33,50,Term 1
+S058,History,Unit Test,31,50,Term 1
+S091,Math,Unit Test,49,50,Term 1
+S037,Math,Mid-Term,45,100,Term 1
+S028,Computer,Final,74,100,Term 1
+S065,History,Final,85,100,Term 2
+S063,English,Mid-Term,91,100,Term 1
+S140,English,Final,72,100,Term 1
+S051,History,Final,93,100,Term 2
+S148,History,Final,43,100,Term 1
+S049,Computer,Final,90,100,Term 2
+S127,English,Final,47,100,Term 2
+S046,Computer,Final,60,100,Term 1
+S117,History,Mid-Term,62,100,Term 1
+S247,Computer,Final,61,100,Term 1
+S176,Math,Mid-Term,76,100,Term 2
+S192,History,Unit Test,26,50,Term 1
+S142,Math,Mid-Term,88,100,Term 2
+S227,Math,Unit Test,31,50,Term 1
+S291,History,Unit Test,44,50,Term 2
+S226,Science,Unit Test,26,50,Term 2
+S284,Science,Mid-Term,78,100,Term 1
+S049,English,Unit Test,35,50,Term 1
+S174,Math,Mid-Term,86,100,Term 1
+S222,English,Final,64,100,Term 1
+S242,English,Final,68,100,Term 1
+S039,History,Mid-Term,92,100,Term 1
+S145,Science,Final,61,100,Term 1
+S212,English,Unit Test,36,50,Term 2
+S292,Computer,Unit Test,24,50,Term 1
+S173,English,Unit Test,30,50,Term 1
+S128,History,Mid-Term,57,100,Term 1
+S160,History,Mid-Term,85,100,Term 2
+S119,History,Mid-Term,43,100,Term 1
+S207,Math,Mid-Term,56,100,Term 2
+S201,Computer,Final,65,100,Term 1
+S132,Math,Mid-Term,100,100,Term 1
+S248,Science,Mid-Term,61,100,Term 2
+S026,History,Unit Test,48,50,Term 2
+S235,Computer,Unit Test,21,50,Term 1
+S155,Science,Mid-Term,91,100,Term 2
+S161,Math,Final,75,100,Term 1
+S175,History,Mid-Term,98,100,Term 2
+S203,Computer,Mid-Term,75,100,Term 2
+S209,History,Unit Test,18,50,Term 2
+S247,Science,Final,82,100,Term 2
+S189,Science,Unit Test,48,50,Term 1
+S225,Math,Unit Test,24,50,Term 2
+S178,History,Unit Test,40,50,Term 1
+S163,Science,Unit Test,20,50,Term 1
+S191,Math,Final,65,100,Term 1
+S184,Science,Mid-Term,98,100,Term 2
+S298,History,Unit Test,18,50,Term 2
+S029,English,Unit Test,41,50,Term 1
+S046,History,Mid-Term,64,100,Term 1
+S090,Computer,Mid-Term,69,100,Term 1
+S005,English,Final,37,100,Term 1
+S282,English,Final,93,100,Term 2
+S001,English,Mid-Term,35,100,Term 2
+S149,History,Final,46,100,Term 1
+S021,History,Unit Test,50,50,Term 2
+S254,Math,Mid-Term,79,100,Term 2
+S288,English,Unit Test,17,50,Term 1

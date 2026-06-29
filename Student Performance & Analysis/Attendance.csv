@@ -1,0 +1,301 @@
+StudentID,Date,Status,Reason
+S205,2023-12-01,Present,N/A
+S149,2023-08-02,Present,N/A
+S073,2023-07-20,Present,N/A
+S223,2023-10-05,Present,N/A
+S270,2023-12-13,Present,N/A
+S231,2023-11-23,Absent,Sick Leave
+S275,2023-10-27,Present,N/A
+S202,2023-08-08,Absent,Family Function
+S128,2023-07-20,Present,N/A
+S185,2023-10-28,Absent,Unknown
+S134,2023-09-15,Present,N/A
+S120,2023-07-06,Present,N/A
+S080,2023-07-22,Present,N/A
+S196,2023-09-01,Present,N/A
+S092,2023-11-18,Absent,Transportation Issue
+S177,2023-06-19,Absent,Family Function
+S163,2023-08-28,Present,N/A
+S244,2023-12-04,Present,N/A
+S150,2023-06-22,Present,N/A
+S007,2023-06-09,Present,N/A
+S011,2023-06-08,Absent,Unknown
+S232,2023-09-23,Present,N/A
+S136,2023-11-06,Present,N/A
+S113,2023-06-30,Present,N/A
+S051,2023-07-26,Present,N/A
+S214,2023-09-01,Present,N/A
+S118,2023-09-06,Present,N/A
+S126,2023-09-12,Present,N/A
+S119,2023-07-24,Present,N/A
+S144,2023-06-30,Present,N/A
+S090,2023-11-08,Present,N/A
+S140,2023-08-05,Present,N/A
+S059,2023-08-15,Present,N/A
+S034,2023-07-23,Present,N/A
+S037,2023-08-01,Present,N/A
+S047,2023-09-06,Present,N/A
+S164,2023-12-13,Absent,Unknown
+S147,2023-06-21,Present,N/A
+S289,2023-10-31,Present,N/A
+S059,2023-11-13,Present,N/A
+S170,2023-09-22,Present,N/A
+S104,2023-08-07,Present,N/A
+S109,2023-06-29,Present,N/A
+S250,2023-11-17,Present,N/A
+S194,2023-08-03,Present,N/A
+S196,2023-11-05,Present,N/A
+S153,2023-07-18,Present,N/A
+S172,2023-09-26,Present,N/A
+S157,2023-06-11,Present,N/A
+S104,2023-07-01,Present,N/A
+S198,2023-12-01,Absent,Sick Leave
+S007,2023-11-18,Present,N/A
+S154,2023-11-04,Present,N/A
+S226,2023-10-25,Present,N/A
+S246,2023-08-21,Present,N/A
+S193,2023-10-01,Absent,Family Function
+S089,2023-08-20,Absent,Transportation Issue
+S036,2023-10-31,Present,N/A
+S063,2023-09-21,Present,N/A
+S199,2023-09-21,Absent,Sick Leave
+S159,2023-09-24,Present,N/A
+S231,2023-09-13,Present,N/A
+S110,2023-07-27,Present,N/A
+S243,2023-07-02,Present,N/A
+S298,2023-08-03,Present,N/A
+S189,2023-06-27,Absent,Transportation Issue
+S244,2023-06-11,Present,N/A
+S004,2023-07-07,Present,N/A
+S275,2023-10-06,Present,N/A
+S190,2023-11-11,Present,N/A
+S055,2023-09-30,Present,N/A
+S225,2023-11-24,Present,N/A
+S135,2023-08-08,Present,N/A
+S236,2023-10-11,Present,N/A
+S237,2023-10-13,Present,N/A
+S107,2023-07-26,Present,N/A
+S016,2023-10-23,Present,N/A
+S287,2023-09-05,Present,N/A
+S227,2023-11-07,Present,N/A
+S216,2023-09-21,Present,N/A
+S071,2023-07-19,Present,N/A
+S075,2023-10-22,Absent,Family Function
+S008,2023-12-03,Present,N/A
+S274,2023-06-21,Absent,Transportation Issue
+S046,2023-08-28,Present,N/A
+S241,2023-10-12,Absent,Unknown
+S090,2023-09-14,Present,N/A
+S083,2023-12-02,Absent,Transportation Issue
+S144,2023-10-29,Present,N/A
+S136,2023-09-05,Present,N/A
+S238,2023-09-19,Present,N/A
+S067,2023-10-02,Present,N/A
+S029,2023-11-04,Present,N/A
+S125,2023-09-24,Present,N/A
+S195,2023-07-31,Present,N/A
+S073,2023-08-26,Present,N/A
+S043,2023-08-11,Present,N/A
+S129,2023-11-14,Present,N/A
+S256,2023-08-01,Present,N/A
+S117,2023-06-03,Absent,Transportation Issue
+S193,2023-07-13,Present,N/A
+S081,2023-06-18,Absent,Family Function
+S058,2023-07-30,Present,N/A
+S155,2023-08-15,Present,N/A
+S060,2023-07-27,Present,N/A
+S160,2023-09-28,Absent,Family Function
+S145,2023-08-19,Present,N/A
+S213,2023-09-28,Present,N/A
+S157,2023-12-17,Present,N/A
+S196,2023-08-15,Present,N/A
+S149,2023-11-09,Present,N/A
+S297,2023-09-23,Present,N/A
+S293,2023-10-07,Present,N/A
+S031,2023-07-29,Present,N/A
+S012,2023-10-02,Present,N/A
+S223,2023-10-24,Present,N/A
+S204,2023-06-30,Present,N/A
+S141,2023-12-15,Present,N/A
+S110,2023-06-22,Present,N/A
+S092,2023-09-05,Present,N/A
+S247,2023-09-30,Present,N/A
+S274,2023-10-18,Present,N/A
+S096,2023-10-11,Present,N/A
+S163,2023-08-07,Absent,Unknown
+S004,2023-06-15,Absent,Sick Leave
+S285,2023-10-01,Present,N/A
+S027,2023-06-07,Present,N/A
+S193,2023-08-29,Present,N/A
+S057,2023-06-22,Present,N/A
+S117,2023-06-02,Present,N/A
+S063,2023-08-28,Absent,Unknown
+S274,2023-06-26,Present,N/A
+S142,2023-12-02,Present,N/A
+S137,2023-06-04,Present,N/A
+S018,2023-10-19,Present,N/A
+S058,2023-12-17,Present,N/A
+S065,2023-11-01,Present,N/A
+S078,2023-06-17,Present,N/A
+S107,2023-12-14,Present,N/A
+S034,2023-11-07,Absent,Sick Leave
+S045,2023-09-10,Present,N/A
+S188,2023-12-03,Present,N/A
+S007,2023-06-05,Present,N/A
+S128,2023-09-04,Present,N/A
+S059,2023-12-07,Present,N/A
+S120,2023-07-05,Present,N/A
+S029,2023-12-15,Present,N/A
+S054,2023-08-09,Present,N/A
+S295,2023-08-30,Present,N/A
+S016,2023-07-16,Present,N/A
+S251,2023-11-01,Present,N/A
+S128,2023-07-29,Present,N/A
+S297,2023-10-19,Present,N/A
+S134,2023-12-18,Present,N/A
+S197,2023-07-08,Present,N/A
+S214,2023-12-03,Absent,Unknown
+S132,2023-07-05,Present,N/A
+S238,2023-09-14,Absent,Unknown
+S077,2023-12-15,Present,N/A
+S171,2023-10-04,Present,N/A
+S112,2023-11-23,Present,N/A
+S134,2023-10-19,Present,N/A
+S283,2023-10-24,Present,N/A
+S092,2023-06-07,Present,N/A
+S299,2023-12-17,Present,N/A
+S054,2023-12-10,Present,N/A
+S215,2023-12-09,Present,N/A
+S197,2023-12-09,Present,N/A
+S057,2023-08-25,Present,N/A
+S095,2023-06-08,Present,N/A
+S041,2023-07-30,Present,N/A
+S126,2023-06-05,Present,N/A
+S046,2023-11-06,Present,N/A
+S160,2023-09-04,Present,N/A
+S013,2023-07-23,Present,N/A
+S209,2023-10-31,Absent,Unknown
+S064,2023-07-16,Present,N/A
+S100,2023-12-07,Present,N/A
+S273,2023-09-03,Present,N/A
+S051,2023-07-29,Present,N/A
+S052,2023-08-04,Absent,Family Function
+S107,2023-11-11,Present,N/A
+S279,2023-11-02,Present,N/A
+S124,2023-09-01,Present,N/A
+S267,2023-08-16,Absent,Transportation Issue
+S055,2023-09-08,Present,N/A
+S293,2023-08-21,Present,N/A
+S136,2023-08-01,Present,N/A
+S230,2023-11-15,Absent,Unknown
+S269,2023-10-18,Present,N/A
+S175,2023-06-27,Present,N/A
+S082,2023-07-15,Present,N/A
+S236,2023-07-14,Present,N/A
+S044,2023-07-24,Absent,Transportation Issue
+S253,2023-08-12,Absent,Unknown
+S263,2023-09-23,Present,N/A
+S273,2023-06-15,Present,N/A
+S071,2023-09-25,Present,N/A
+S091,2023-09-07,Present,N/A
+S133,2023-09-06,Present,N/A
+S021,2023-09-13,Present,N/A
+S244,2023-06-21,Present,N/A
+S080,2023-08-13,Present,N/A
+S255,2023-10-20,Absent,Unknown
+S118,2023-09-05,Present,N/A
+S154,2023-07-26,Present,N/A
+S254,2023-08-26,Present,N/A
+S062,2023-11-09,Present,N/A
+S270,2023-07-29,Present,N/A
+S244,2023-11-12,Present,N/A
+S238,2023-10-22,Present,N/A
+S116,2023-07-25,Present,N/A
+S118,2023-09-06,Present,N/A
+S145,2023-07-05,Present,N/A
+S149,2023-06-13,Absent,Unknown
+S259,2023-10-13,Present,N/A
+S177,2023-09-28,Present,N/A
+S285,2023-08-13,Present,N/A
+S228,2023-08-18,Present,N/A
+S183,2023-10-05,Present,N/A
+S167,2023-11-20,Present,N/A
+S035,2023-09-21,Absent,Sick Leave
+S127,2023-10-03,Present,N/A
+S221,2023-08-18,Present,N/A
+S288,2023-12-07,Absent,Sick Leave
+S260,2023-06-22,Present,N/A
+S120,2023-12-16,Absent,Sick Leave
+S122,2023-12-01,Present,N/A
+S009,2023-07-09,Present,N/A
+S244,2023-11-25,Absent,Family Function
+S061,2023-10-28,Present,N/A
+S001,2023-10-18,Present,N/A
+S002,2023-08-29,Present,N/A
+S277,2023-12-04,Present,N/A
+S186,2023-10-25,Present,N/A
+S106,2023-11-14,Present,N/A
+S139,2023-09-02,Present,N/A
+S195,2023-06-15,Present,N/A
+S008,2023-10-12,Present,N/A
+S246,2023-08-06,Present,N/A
+S082,2023-06-18,Present,N/A
+S184,2023-10-12,Present,N/A
+S270,2023-06-14,Absent,Family Function
+S131,2023-11-05,Absent,Family Function
+S234,2023-09-02,Present,N/A
+S209,2023-12-03,Present,N/A
+S078,2023-10-21,Present,N/A
+S109,2023-07-01,Present,N/A
+S046,2023-06-02,Absent,Family Function
+S104,2023-06-02,Present,N/A
+S122,2023-08-20,Present,N/A
+S286,2023-09-05,Present,N/A
+S206,2023-07-19,Present,N/A
+S091,2023-06-22,Present,N/A
+S162,2023-08-13,Present,N/A
+S090,2023-10-18,Present,N/A
+S236,2023-08-03,Present,N/A
+S144,2023-11-16,Present,N/A
+S117,2023-10-29,Present,N/A
+S177,2023-10-24,Absent,Unknown
+S234,2023-09-15,Present,N/A
+S174,2023-07-10,Present,N/A
+S164,2023-12-05,Present,N/A
+S111,2023-12-12,Absent,Sick Leave
+S263,2023-11-22,Present,N/A
+S196,2023-12-10,Present,N/A
+S022,2023-09-14,Present,N/A
+S181,2023-12-09,Present,N/A
+S296,2023-09-01,Present,N/A
+S161,2023-10-09,Present,N/A
+S112,2023-07-08,Present,N/A
+S232,2023-06-11,Absent,Sick Leave
+S240,2023-12-17,Present,N/A
+S120,2023-12-10,Present,N/A
+S072,2023-07-21,Absent,Family Function
+S110,2023-10-13,Present,N/A
+S138,2023-09-06,Present,N/A
+S090,2023-07-23,Present,N/A
+S072,2023-06-26,Present,N/A
+S124,2023-06-04,Present,N/A
+S175,2023-10-19,Absent,Sick Leave
+S228,2023-08-28,Present,N/A
+S259,2023-09-05,Absent,Family Function
+S022,2023-06-23,Present,N/A
+S158,2023-09-11,Present,N/A
+S095,2023-07-24,Present,N/A
+S088,2023-07-18,Present,N/A
+S090,2023-09-20,Absent,Transportation Issue
+S243,2023-09-02,Absent,Transportation Issue
+S216,2023-10-23,Present,N/A
+S199,2023-09-29,Present,N/A
+S015,2023-07-09,Absent,Unknown
+S256,2023-08-07,Present,N/A
+S266,2023-09-06,Present,N/A
+S192,2023-10-16,Absent,Family Function
+S261,2023-10-14,Present,N/A
+S112,2023-11-01,Present,N/A
+S017,2023-10-28,Present,N/A
+S015,2023-11-10,Present,N/A
+S036,2023-06-12,Present,N/A

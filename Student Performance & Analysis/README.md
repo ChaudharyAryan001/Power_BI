@@ -49,23 +49,27 @@ The data model follows a centralized fact table structure connected to multiple 
 - Efficient DAX calculations  
 
 ### Screenshot
-![Star Schema](images/student_star_schema.png)
+<img width="1152" height="835" alt="Relationship" src="https://github.com/user-attachments/assets/aa840d9b-4b0b-4af4-aca3-b20137bcb034" /><br><br>
+
 
 ---
 
 ## 📋 Project Tables & Transformations
 
 ### Students Table
-![Students Table](images/students_table.png)
+<img width="1916" height="952" alt="student " src="https://github.com/user-attachments/assets/fd488656-cb0f-4a83-97da-fa6af285d95d" /><br><br>
+
 
 ### Attendance Table
-![Attendance Table](images/attendance_table.png)
+<img width="1917" height="966" alt="Attendance" src="https://github.com/user-attachments/assets/24fe94a8-004f-4a9d-859c-948e15749a35" /><br><br>
+
 
 ### Behavior Table
-![Behavior Table](images/behavior_table.png)
+<img width="1907" height="947" alt="Behavior" src="https://github.com/user-attachments/assets/2e79ddda-0126-4c04-9e07-9156753a9cc4" /><br><br>
+
 
 ### Scores Table
-![Scores Table](images/scores_table.png)
+<img width="1917" height="947" alt="Scores" src="https://github.com/user-attachments/assets/18d73c93-2d71-4b52-93ea-a08acd46c21d" /><br><br>
 
 ---
 
@@ -93,7 +97,8 @@ The data model follows a centralized fact table structure connected to multiple 
 - Behavior Category  
 
 ### Screenshot
-![DAX Formulas](images/student_dax_formulas.png)
+<img width="605" height="871" alt="dax formulas all" src="https://github.com/user-attachments/assets/2552646a-6951-41d3-91cf-1a4963f4b2ad" /><br><br>
+
 
 ---
 
@@ -101,7 +106,8 @@ The data model follows a centralized fact table structure connected to multiple 
 
 ## 1️⃣ Executive Overview Dashboard
 Provides a high-level summary of student performance.  
-![Executive Overview](images/student_exec_dashboard.png)
+<img width="1172" height="852" alt="deshboard" src="https://github.com/user-attachments/assets/b7d212fe-210f-47d8-8e60-87864321e5b5" /><br><br>
+
 
 
 ---
@@ -128,3 +134,4 @@ Provides a high-level summary of student performance.
 
 ## 📌 Project Outcome
 This dashboard transforms raw student data into meaningful academic intelligence, enabling data-driven decision making through interactive reporting, advanced DAX calculations, and professional dashboard design.
+-Aryan 
